@@ -4,8 +4,8 @@
   <br/>
 
   ## 🌱 About Me 
-  <h5> I'm studying at Seoul Women's University </h5>
-  <h5> Major: 📱🖥️ Software Convergence <br/> Interdisciplinary Major: 👩🏻‍💼🪄 Digital Convergence Management</h5>
+  <h4> I'm studying at Seoul Women's University </h4>
+  <h4> Major: 📱🖥️ Software Convergence <br/> Interdisciplinary Major: 👩🏻‍💼🪄 Digital Convergence Management</h4>
   <br/>
   
   ## ✨ Dev log
