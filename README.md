@@ -3,11 +3,12 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E55D87,100:5FC3E4&height=200&section=header&text=Jieun%20Choi's%20github&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
   <br/>
 
-  <h3> Hi there 👋 </h3> 
-  <h5> 📱🖥️ Department of Software Convergence, <br/> 🏫 Seoul Women's University </h5>
+  ### 🌱 About Me 
+  <h5> I'm studying at 🏫 Seoul Women's University </h5>
+  <h5> Major: 📱🖥️ Software Convergence <br/> Interdisciplinary Major: 👩🏻‍💼🪄 Digital Convergence Management</h5>
   <br/>
   
-  <!-- <h3> ✨ Dev log ✨ </h3> -->
+  ### ✨ Dev log
   
   <img src="https://github-readme-stats.vercel.app/api?username=cje172&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   <br/>
