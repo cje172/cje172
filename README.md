@@ -4,7 +4,7 @@
   <br/>
 
   <h3> Hi there 👋 </h3> 
-  <h5> 🏫 Seoul Women's University, <br/> 📱🖥️ Department of Software Convergence </h5>
+  <h5> 📱🖥️ Department of Software Convergence, <br/> 🏫 Seoul Women's University </h5>
   <br/>
   
   <!-- <h3> ✨ Dev log ✨ </h3> -->
