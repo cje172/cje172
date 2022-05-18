@@ -1,7 +1,25 @@
-### Hi there 👋
+<div align=center>
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E55D87,100:5FC3E4&height=200&section=header&text=Jieun%20Choi's%20github&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
+  <br/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cje172&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
+  <h3> Hi there 👋 </h3> 
+  <h5> 🏫 Seoul Women's University, <br/> 📱🖥️ Department of Software Convergence </h5>
+  <br/>
+  
+  <!-- <h3> ✨ Dev log ✨ </h3> -->
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=cje172&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <br/>
+  <br/>
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E55D87,100:5FC3E4&height=200&section=footer)
+</div>
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cje172&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <br/>
+-->
 
 <!--
 **cje172/cje172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
