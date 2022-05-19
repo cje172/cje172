@@ -11,7 +11,7 @@
   ## ✨ Dev log
   <img src="https://github-readme-stats.vercel.app/api?username=cje172&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width=45% />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cje172&exclude_repo=Unity_ShootingGame&layout=compact&theme=dark" width=45% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cje172&exclude_repo=Unity_ShootingGame&layout=compact&theme=dark" width=44% />
   <br/><br/><br/>
   
   
