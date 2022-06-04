@@ -14,12 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cje172&exclude_repo=Unity_ShootingGame&layout=compact&theme=dark" width=44% />
   <br/><br/><br/>
   
-  
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cje172)](https://github.com/cje172/velog-readme-stats)
-  
-  
-  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cje172)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cje172)](https://velog.io/@cje172)
   <br/>
   
   <!--
