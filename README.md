@@ -15,6 +15,13 @@
   <br/><br/><br/>
   
   
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cje172)](https://github.com/cje172/velog-readme-stats)
+  
+  
+  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cje172)
+  <br/>
+  
   <!--
   ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cje172)
   <br/>
